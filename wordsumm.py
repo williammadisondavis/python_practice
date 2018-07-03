@@ -1,6 +1,7 @@
 ###takes the split function from splitter
 from splitter import split
 ### imports all functions
+###changes
 import splitter
 sentence = raw_input("Please enter a sentence:\n")
 list_of_words = sentence.split()
